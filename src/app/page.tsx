@@ -69,7 +69,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a href="#kontak" className="w-full sm:w-auto rounded-full bg-gradient-to-r from-violet-600 to-fuchsia-600 px-8 py-3 font-medium hover:opacity-90 transition-opacity">
-              Konsultasi Gratis
+              Hubungi Tim Kami
             </a>
             <a href="#layanan" className="w-full sm:w-auto rounded-full border border-zinc-800 px-8 py-3 font-medium text-zinc-300 hover:bg-zinc-900 transition-colors">
               Lihat Layanan
