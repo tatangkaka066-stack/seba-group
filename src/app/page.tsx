@@ -62,7 +62,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight leading-tight mb-6 bg-gradient-to-b from-white to-zinc-400 bg-clip-text text-transparent">
             Transformasi Bisnis dengan
             <br />
-            Kekuatan Agentic AI
+            Kekuatan AI Agent
           </h1>
           <p className="text-lg text-zinc-400 max-w-2xl mx-auto mb-10 leading-relaxed">
             SEBA GROUP membantu bisnis Anda bergerak lebih cepat dengan AI agent otonom, automation, dan web development modern. Fokus pada strategi — biarkan teknologi bekerja untuk Anda.
